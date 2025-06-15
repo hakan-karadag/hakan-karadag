@@ -190,10 +190,10 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hakan-karadag&show_icons=true&theme=tokyonight&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakan-karadag&theme=tokyonight&border=00F5FF&background=0D1117&ring=00F5FF&fire=FF6600&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=hakan-karadag&show_icons=true&theme=tokyonight&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&include_all_commits=true&count_private=true" />
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakan-karadag&theme=tokyonight&border=00F5FF&background=0D1117&ring=00F5FF&fire=FF6600&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-karadag&layout=compact&theme=tokyonight&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=10" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-karadag&layout=compact&theme=tokyonight&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=10" />
 
 </div>
 
