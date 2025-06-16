@@ -10,34 +10,35 @@
 
 <div align="center">
 
-## 🔧 Technical Skills
+  ## 🔧 Technical Skills
 
-<table align="center" style="max-width:1000px; font-size:14px; color:gray;">
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>🇬🇧</strong></p>
-      <p><em>
-        The technologies listed reflect tools I've used across various projects - whether deeply or through experimentation.<br><br>
-        I don't claim expertise in all of them, and my "Preferred" ones aren't necessarily those I master the most.<br><br>
-        Like many in this industry, I'm constantly learning. The key is adaptability, fast learning, and being ready to respond when the need arises.
-      </em></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>🇫🇷</strong></p>
-      <p><em>
-        Les technologies mentionnees refletent les outils que j'ai utilises au fil des projets - que ce soit en profondeur ou a travers des experimentations.<br><br>
-        Je ne pretends pas etre expert dans chacun d'eux, et mes "Preferred" ne sont pas toujours ceux que je maitrise le plus.<br><br>
-        Comme beaucoup dans cette industrie, j'apprends continuellement. Ce qui compte, c'est la capacite a s'adapter, a apprendre vite, et a repondre au besoin quand il se presente.
-      </em></p>
-    </td>
-  </tr>
-</table>
+  <table align="center" style="max-width:1000px; font-size:14px; color:gray;">
+    <tr>
+      <td width="50%" valign="top">
+        <p><strong>🇬🇧</strong></p>
+        <p><em>
+          The technologies listed reflect tools I've used across various projects   - whether deeply or through experimentation.<br><br>
+          I don't claim expertise in all of them, and my "Preferred" ones aren't  necessarily those I master the most.<br><br>
+          Like many in this industry, I'm constantly learning. The key is   adaptability, fast learning, and being ready to respond when the need   arises.
+        </em></p>
+      </td>
+      <td width="50%" valign="top">
+        <p><strong>🇫🇷</strong></p>
+        <p><em>
+          Les technologies mentionnees refletent les outils que j'ai utilises au  fil des projets - que ce soit en profondeur ou a travers des   experimentations.<br><br>
+          Je ne pretends pas etre expert dans chacun d'eux, et mes "Preferred" ne   sont pas toujours ceux que je maitrise le plus.<br><br>
+          Comme beaucoup dans cette industrie, j'apprends continuellement. Ce qui   compte, c'est la capacite a s'adapter, a apprendre vite, et a repondre  au besoin quand il se presente.
+        </em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Programming Languages**
 
-<span style="color:gray; font-size:16px; font-weight:bold">Preferred</span>
+**Preferred**
 
 <div align="center">
 
@@ -49,8 +50,8 @@
 
 </div>
 
-<span style="color:gray; font-size:16px; font-weight:bold">Experienced</span>
-<span style="color:gray; font-size:8px">From experimentation to proficiency, depending on the case.</span>
+**Experienced**  
+*From experimentation to proficiency, depending on the case.*
 
 <div align="center">
 
@@ -59,23 +60,17 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA">
   <img src="https://img.shields.io/badge/VBScript-239120?style=for-the-badge&logo=windows&logoColor=white" alt="VBScript">
 </p>
 
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Industrial Programming**
 <div align="center">
@@ -96,7 +91,7 @@
 
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Robotics Programming**
 <div align="center">
@@ -115,11 +110,11 @@
 
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Frontend Development**
 
-<span style="color:gray; font-size:16px; font-weight:bold">Preferred</span>
+**Preferred**
 
 <div align="center">
   <p>
@@ -132,8 +127,8 @@
   </p>
 </div>
 
-<span style="color:gray; font-size:16px; font-weight:bold">Experienced</span>
-<span style="color:gray; font-size:8px">From experimentation to proficiency, depending on the case.</span>
+**Experienced**
+*From experimentation to proficiency, depending on the case.*
 
 <div align="center">
   <p>
@@ -145,11 +140,11 @@
   </p>
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Backend Development**
 
-<span style="color:gray; font-size:16px; font-weight:bold">Preferred</span>
+**Preferred**
 
 <div align="center">
   <p>
@@ -160,8 +155,8 @@
   </p>
 </div>
 
-<span style="color:gray; font-size:16px; font-weight:bold">Experienced</span>
-<span style="color:gray; font-size:8px">From experimentation to proficiency, depending on the case.</span>
+**Experienced**
+*From experimentation to proficiency, depending on the case.*
 
 <div align="center">
   <p>
@@ -173,11 +168,11 @@
   </p>
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Databases**
 
-<span style="color:gray; font-size:16px; font-weight:bold">Preferred</span>
+**Preferred**
 
 <div align="center">
   <p>
@@ -190,8 +185,8 @@
   </p>
 </div>
 
-<span style="color:gray; font-size:16px; font-weight:bold">Experienced</span>
-<span style="color:gray; font-size:8px">From experimentation to proficiency, depending on the case.</span>
+**Experienced**
+*From experimentation to proficiency, depending on the case.*
 
 <div align="center">
   <p>
@@ -201,11 +196,11 @@
   </p>
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Infrastructure & DevOps**
 
-<span style="color:gray; font-size:16px; font-weight:bold">Preferred</span>
+**Preferred**
 
 <div align="center">
   <p>
@@ -219,8 +214,8 @@
   </p>
 </div>
 
-<span style="color:gray; font-size:16px; font-weight:bold">Experienced</span>
-<span style="color:gray; font-size:8px">From experimentation to proficiency, depending on the case.</span>
+**Experienced**
+*From experimentation to proficiency, depending on the case.*
 
 <div align="center">
   <p>
@@ -230,11 +225,11 @@
   </p>
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **AI & Machine Learning**
 
-<span style="color:gray; font-size:16px; font-weight:bold">Preferred</span>
+**Preferred**
 
 <div align="center">
   <p>
@@ -247,8 +242,8 @@
   </p>
 </div>
 
-<span style="color:gray; font-size:16px; font-weight:bold">Experienced</span>
-<span style="color:gray; font-size:8px">From experimentation to proficiency, depending on the case.</span>
+**Experienced**
+*From experimentation to proficiency, depending on the case.*
 
 <div align="center">
   <p>
@@ -256,11 +251,11 @@
   </p>
 </div>
 
-<hr style="border: none; height: 1px; background-color: gray;" />
+---
 
 ### **Others & Platforms**
 
-<span style="color:gray; font-size:16px; font-weight:bold">Preferred</span>
+**Preferred**
 
 <div align="center">
   <p>
@@ -272,8 +267,8 @@
   </p>
 </div>
 
-<span style="color:gray; font-size:16px; font-weight:bold">Experienced</span>
-<span style="color:gray; font-size:8px">From experimentation to proficiency, depending on the case.</span>
+**Experienced**
+*From experimentation to proficiency, depending on the case.*
 
 <div align="center">
   <p>
