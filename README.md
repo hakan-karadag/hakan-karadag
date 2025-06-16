@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  ## 🔧 Technical Skills
+  # 🔧 Technical Skills
 
   <table align="center" style="max-width:1000px; font-size:14px; color:gray;">
     <tr>
@@ -36,7 +36,7 @@
 
 ---
 
-### **Programming Languages**
+## **Programming Languages**
 
 **Preferred**
 
@@ -72,7 +72,7 @@
 
 ---
 
-### **Industrial Programming**
+## **Industrial Programming**
 <div align="center">
 
 <p>
@@ -93,7 +93,7 @@
 
 ---
 
-### **Robotics Programming**
+## **Robotics Programming**
 <div align="center">
 
 <p>
@@ -112,7 +112,7 @@
 
 ---
 
-### **Frontend Development**
+## **Frontend Development**
 
 **Preferred**
 
@@ -142,7 +142,7 @@
 
 ---
 
-### **Backend Development**
+## **Backend Development**
 
 **Preferred**
 
@@ -170,7 +170,7 @@
 
 ---
 
-### **Databases**
+## **Databases**
 
 **Preferred**
 
@@ -198,7 +198,7 @@
 
 ---
 
-### **Infrastructure & DevOps**
+## **Infrastructure & DevOps**
 
 **Preferred**
 
@@ -227,7 +227,7 @@
 
 ---
 
-### **AI & Machine Learning**
+## **AI & Machine Learning**
 
 **Preferred**
 
@@ -253,7 +253,7 @@
 
 ---
 
-### **Others & Platforms**
+## **Others & Platforms**
 
 **Preferred**
 
@@ -281,7 +281,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 </div>
 
